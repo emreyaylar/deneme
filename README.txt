@@ -1,1 +1,1 @@
-asal sayý c++
+asal sayý c++ deneme ilk projemizi bu repository' imizde tutacaðýz.
